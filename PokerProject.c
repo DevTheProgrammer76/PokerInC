@@ -1,6 +1,6 @@
 /* 
  * File: PokerProject.c
- * Authors: Devin Barrow, Antoinette Hults, Briseis Ramirez
+ * Authors: DB, AH, BR
  * Purpose: Create a playable poker with working visuals
  * Date: 17th April, 2026
  * 

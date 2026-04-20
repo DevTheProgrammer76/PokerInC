@@ -1,4 +1,4 @@
-/*Authors: Devin Barrow, Briseis Ramirez, Antoinette Hults*/
+/*Authors: DB, AH, BR*/
 
 #ifndef POKER_H
 #define POKER_H

@@ -6,9 +6,6 @@
  * 
  * Sources of help:
  * Microsoft Co-Pilot (Used for error checking), Ideas for hand checking and comparison, function in function setup.
- * Sawyer Curless (idea drafting)
- * Dr. O (Idea drafting)
- * Payton Macias (Idea Drafting)
  */
 
 
